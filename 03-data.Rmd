@@ -35,7 +35,7 @@ logi <- TRUE
 class(logi)
 ```
 
-Alternatively, you can ask if an object is a specific class using using a logical test. The `is.[classOfData]()` family of functions will return either a `TRUE` or a `FALSE`.\index{is.numeric()} \index{is.character()} \index{is.logical()}
+Alternatively, you can ask if an object is a specific class using a logical test. The `is.[classOfData]()` family of functions will return either a `TRUE` or a `FALSE`.\index{is.numeric()} \index{is.character()} \index{is.logical()}
 
 ```{r, echo=TRUE, eval=TRUE, collapse=TRUE}
 is.numeric(num)
