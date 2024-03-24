@@ -506,7 +506,7 @@ It's important to note that the `NA` values have not been removed from our `temp
 
 ## Getting help {#help}
 
-This book is intended as a relatively brief introduction to R and as such you will soon be using functions and packages that go beyond this scope of this introductory text. Fortunately, one of the strengths of R is its comprehensive and easily accessible help system and wealth of online resources where you can obtain further information. 
+This book is intended as a relatively brief introduction to R and as such you will soon be using functions and packages that go beyond the scope of this introductory text. Fortunately, one of the strengths of R is its comprehensive and easily accessible help system and wealth of online resources where you can obtain further information. 
 
 ### R help 
 
