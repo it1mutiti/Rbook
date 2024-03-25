@@ -37,7 +37,7 @@ sqrt(4) 			# square root
 pi 					  # not a function but useful
 ```
 
-It's important to realise that when you run code as we've done above, the result of the code (or **value**) is only displayed in the console. Whilst this can sometimes be useful it is usually much more practical to store the value(s) in a object.
+It's important to realise that when you run code as we've done above, the result of the code (or **value**) is only displayed in the console. Whilst this can sometimes be useful it is usually much more practical to store the value(s) in an object.
 
 ## Objects in R
 
